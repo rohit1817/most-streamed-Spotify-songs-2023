@@ -61,6 +61,10 @@ In the course of preparing this project, the dataset underwent several cleaning 
 
 8. **Rank Artists by Their Total Streams Across All Tracks:** Rank artists by the total number of streams across all their tracks and identify the top 5 and bottom 5 artists.
 
+## Project Purpose
+
+The primary purpose of this project is to deepen my understanding of SQL, hone my data analysis skills, and explore various SQL queries and techniques. This project is a practice project, and I plan to modify it in the course of time as I discover new topics and optimization techniques. Furthermore, I have plans to collect datasets that require extensive data cleaning and preprocessing in the future. These datasets will serve as the foundation for new projects, which I intend to develop either in SQL or Python.
+
 ## Acknowledgments
 
 - **Dataset source:** [Top Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
